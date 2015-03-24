@@ -1,0 +1,1 @@
+Sistema voltado para ser o front-end da empresa Waant, e com a funcionalidade de Central de Vagas para o setor de Turismo.
